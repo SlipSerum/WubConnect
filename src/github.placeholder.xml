@@ -1,0 +1,45 @@
+<xml version="4.0" encoding="UTF-8">
+<github>
+<call type="action">
+  <sharedsecret s="5" type="d909">
+    --- Begin of jHeight PlaceHolder ---
+    fqj0er134fnu4pthn58thnurr9uh9u9UHN93U4FNuuu9nw9u9Ub9ufn39utn9fuebg2hntjfjansi9q3413h4f89efbu42bu92urrna9fnf9834t93fb9rrbf948ht8brfr
+    --- End of jHeight PlaceHolder ---
+  </sharedsecret>
+  <connections>
+  <server>
+    <proxy>
+      <src="ftp://proxynetservers.gv.sg/oldservers/src/htmoo/better.net/betternet-htmoo-jsclient.proxyserver.xml"
+      <port>
+        4081
+      </port>
+      <secret>
+        <src="5">
+      </secret>
+    </proxy>
+  </server>
+  </connections>
+</call>
+<call type="secure">
+  <sharedsecret s="4" type="c907">
+    --- Begin of jHeight PlaceHolder ---
+    fj3p9i4fn9rrh249u5tn9ubr9ur9un39urr4oirfn942ht92f9u4hhg249t294hf9je
+    --- End of jHeight PlaceHolder ---
+  </sharedsecret>
+  <proxy>
+    <src="ssh://privateterminals.local.gvsg.tk/ssh.proxynet.sshterminal/ssh.sh">
+  </proxy>
+  <source>
+    <ftp>
+      <ftp src="ftp://proxynetservers.gv.sg/ssh/placeholders/018.mm./securenet/proxynet/providers/paid/private/closed/old/htbutu/gvsg.cf/placeholder.py">
+    </ftp>
+  </source>
+  <script>
+    <src="ftp://gvsg.cf/private/hidden/01//fpj1l/predshome/main/placeholder.gen.sh">
+      <nosh src="ftp://gvsg.cf/private/hidden/01//fpj1l/predshome/main/backups/js/main/placeholder.gen.js">
+        <nojs src="ftp://gvsg.cf/private/hidden/01//fpj1l/predshome/main/backups/htm/main/placeholder.html">
+      </nosh>
+    </src>
+  </script>
+</github>
+</xml>
