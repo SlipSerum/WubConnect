@@ -1,0 +1,6 @@
+<xml version="4.0" encoding="UTF-8">
+<call action="typea">
+  <run>
+    <src="ftp://hosting.gvsg.cf/private/14913g/client/rf1n39ef/placeholder.gen.xml"
+  </run>
+</call>
